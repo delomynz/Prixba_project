@@ -6,7 +6,7 @@ menu, ul {
   width: 900px;
 }
 menu {
-  background-color: skyblue;
+  background-color: #2d4059;
   color : white;
   width: 100%;
   height : 50px;
@@ -18,6 +18,7 @@ li {
 
 button {
   width: 100%;
+  background-color: #EA5455;
 }
 label {
      display: flex;
@@ -26,6 +27,15 @@ label {
      margin: 0 auto;
    }
 
-select {
-     
-   }
+
+
+   footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #2d4059;
+    color: white;
+  }
+
+  a {
+    color: #8ebf42;
+  }
